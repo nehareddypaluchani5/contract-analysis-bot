@@ -1,0 +1,33 @@
+{
+  "Employment": [
+    "employee",
+    "salary",
+    "termination",
+    "non-compete",
+    "indemnity"
+  ],
+  "Vendor": [
+    "vendor",
+    "supplier",
+    "delivery",
+    "penalty",
+    "invoice"
+  ],
+  "Service": [
+    "services",
+    "fees",
+    "payment",
+    "service provider"
+  ],
+  "Lease": [
+    "rent",
+    "premises",
+    "lock-in",
+    "lease period"
+  ],
+  "NDA": [
+    "confidential",
+    "disclosure",
+    "non-disclosure"
+  ]
+}

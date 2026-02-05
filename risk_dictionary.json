@@ -1,0 +1,34 @@
+{
+  "Indemnity": {
+    "keywords": ["indemnify", "hold harmless", "क्षतिपूर्ति"],
+    "risk_level": "High",
+    "reason": "Creates potential unlimited financial liability"
+  },
+  "Unilateral Termination": {
+  "keywords": [
+    "terminate at any time",
+    "without notice",
+    "किसी भी समय",
+    "बिना सूचना",
+    "समाप्त कर सकती है"
+  ],
+  "risk_level": "High",
+  "reason": "One-sided termination rights favoring one party"
+},
+
+  "Penalty": {
+    "keywords": ["penalty", "liquidated damages", "जुर्माना"],
+    "risk_level": "Medium",
+    "reason": "May impose financial burden for delays"
+  },
+  "Non-Compete": {
+    "keywords": ["non-compete", "restrict", "प्रतिस्पर्धा"],
+    "risk_level": "High",
+    "reason": "Restricts future business or employment opportunities"
+  },
+  "Auto-Renewal": {
+    "keywords": ["automatically renew", "auto renewal", "स्वतः नवीनीकरण"],
+    "risk_level": "Medium",
+    "reason": "May lock parties into long-term obligations unintentionally"
+  }
+}
